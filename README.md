@@ -65,8 +65,7 @@ Here are some screenshots of the application:
 ### Resizing Panel
 ![ResizePanel](https://github.com/Kosar-Gari/ImageViewer/blob/main/ImageViewerPanels/1.5.resizePanel.png?raw=true)
 ### Resized Image
-![Resized Image]([https://www.dropbox.com/scl/fi/lds4ak4kbpkbaj44k7ey5/1.5.1.resizedImagePanel.png?rlkey=w882bmmkrvk1yjgrpwfpk2d7j&st=mfbn393d&dl=0](https://github.com/Kosar-Gari/ImageViewer/blob/main/ImageViewerPanels/1.5.1.resizedImagePanel.png?raw=true))
-
+![Resized Image](https://github.com/Kosar-Gari/ImageViewer/blob/main/ImageViewerPanels/1.5.1.resizedImagePanel.png?raw=true)
 ## Code Structure
 
 - **ImageViewerGUI.java:** The main GUI application file.
