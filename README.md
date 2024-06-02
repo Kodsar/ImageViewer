@@ -2,16 +2,6 @@
 
 `ImageViewerGUI` is a Java-based graphical user interface (GUI) application that allows users to select, view, resize, convert to grayscale, and adjust the brightness of images. 
 
-## Features
-
-- **Select Image:** Choose an image file from your file system.
-- **Show Image:** Display the selected image.
-- **Resize Image:** Resize the image to specified dimensions.
-- **Grayscale Image:** Convert the image to grayscale.
-- **Adjust Brightness:** Change the brightness of the image.
-- **Navigate:** Switch between the main menu and different functionalities.
-- **Exit:** Close the application.
-
 ## Prerequisites
 
 - Java Development Kit (JDK) installed on your system.
@@ -20,7 +10,7 @@
 - javax library
 - swing library
 
-## Usage
+## Usage and Features
 
 1. **Select an Image:**
    - Click the "Choose Image" button to open a file chooser dialog.
