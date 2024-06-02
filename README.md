@@ -53,25 +53,19 @@ Here are some screenshots of the application:
 ### Main Menu
 ![Main Menu](https://github.com/Kosar-Gari/ImageViewer/blob/main/ImageViewerPanels/1.mainPanel.png?raw=true)
 ### Image Choosing Panel
-![chooseImagePanel](https://www.dropbox.com/scl/fi/48gskyb0enl2te5ij59do/1.1.chooseImagePanel.png?rlkey=5lbulmrylrj31foo7se74zb3z&st=5ucolang&dl=0)
-
+![chooseImagePanel](https://github.com/Kosar-Gari/ImageViewer/blob/main/ImageViewerPanels/1.1.chooseImagePanel.png?raw=true)
 ### Image Display
-![Image Display](https://www.dropbox.com/scl/fi/lcbpp5sh1ua1u8rfsfdyd/1.2.showImagePanel.png?rlkey=57dop7rz29wr248nq1xodj772&st=4v5j58t7&dl=0)
-
+![Image Display](https://github.com/Kosar-Gari/ImageViewer/blob/main/ImageViewerPanels/1.2.showImagePanel.png?raw=true)
 ### Brightness Panel
-![brightnessPanel](https://www.dropbox.com/scl/fi/pu1a12jf7qthzkfqzk2t3/1.3.brightnessPanel.png?rlkey=lss2gmvk0n9nogjw1kjzh1a7s&st=3yvwgaim&dl=0)
-
+![brightnessPanel](https://github.com/Kosar-Gari/ImageViewer/blob/main/ImageViewerPanels/1.3.brightnessPanel.png?raw=true)
 ### Brightness Adjusted Image
-![Brightness Adjusted Image](https://www.dropbox.com/scl/fi/k645ixzaasbi6vhfhzmsn/1.3.1.brightnessChangedImage.png?rlkey=p78ztuh7af8mccd1rouw0kdeb&st=iyhuvmjx&dl=0)
-
+![Brightness Adjusted Image](https://github.com/Kosar-Gari/ImageViewer/blob/main/ImageViewerPanels/1.3.1.brightnessChangedImage.png?raw=true)
 ### Grayscale Image
-![Grayscale Image](https://www.dropbox.com/scl/fi/z5v4fprns80891oacft1w/1.4.grayScaleShowPanel.png?rlkey=zcsh3raz05i9w0140vs66cso6&st=vq4rfc7c&dl=0)
-
+![Grayscale Image](https://github.com/Kosar-Gari/ImageViewer/blob/main/ImageViewerPanels/1.4.grayScaleShowPanel.png?raw=true)
 ### Resizing Panel
-![ResizePanel](https://www.dropbox.com/scl/fi/9agv65hvxn4rd3xk5ww8a/1.5.resizePanel.png?rlkey=27oi3afjpt1k3g6fs4ow9eflk&st=hmm030vj&dl=0)
-
+![ResizePanel](https://github.com/Kosar-Gari/ImageViewer/blob/main/ImageViewerPanels/1.5.resizePanel.png?raw=true)
 ### Resized Image
-![Resized Image](https://www.dropbox.com/scl/fi/lds4ak4kbpkbaj44k7ey5/1.5.1.resizedImagePanel.png?rlkey=w882bmmkrvk1yjgrpwfpk2d7j&st=mfbn393d&dl=0)
+![Resized Image]([https://www.dropbox.com/scl/fi/lds4ak4kbpkbaj44k7ey5/1.5.1.resizedImagePanel.png?rlkey=w882bmmkrvk1yjgrpwfpk2d7j&st=mfbn393d&dl=0](https://github.com/Kosar-Gari/ImageViewer/blob/main/ImageViewerPanels/1.5.1.resizedImagePanel.png?raw=true))
 
 ## Code Structure
 
