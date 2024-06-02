@@ -14,9 +14,9 @@
 
 ## Prerequisites
 
-- Java Development Kit (JDK) installed on your system.
-- An IDE or text editor to view and edit the code (optional).
-- jsoup library.
+- awt library
+- javax library
+- io library
 
 ## Usage
 
