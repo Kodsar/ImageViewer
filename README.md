@@ -14,9 +14,11 @@
 
 ## Prerequisites
 
+- Java Development Kit (JDK) installed on your system.
 - awt library
-- javax library
 - io library
+- javax library
+- swing library
 
 ## Usage
 
