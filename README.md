@@ -51,7 +51,7 @@
 Here are some screenshots of the application:
 
 ### Main Menu
-![Main Menu](https://www.dropbox.com/scl/fi/xiw3rw243y4z9mj5pvqjz/1.mainPanel.png?rlkey=twlrl9i5uomfdye7sif0wnelj&st=fmf6rgzg&dl=0)
+![Main Menu](https://github.com/Kosar-Gari/ImageViewer/blob/main/ImageViewerPanels/1.mainPanel.png?raw=true)
 ### Image Choosing Panel
 ![chooseImagePanel](https://www.dropbox.com/scl/fi/48gskyb0enl2te5ij59do/1.1.chooseImagePanel.png?rlkey=5lbulmrylrj31foo7se74zb3z&st=5ucolang&dl=0)
 
